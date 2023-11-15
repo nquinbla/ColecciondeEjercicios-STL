@@ -1,0 +1,5 @@
+# ninja log v5
+1	608	7217808117505365	CMakeFiles/main.dir/main.cpp.obj	7f15ab6f1af4273
+1	682	7217808499887553	CMakeFiles/main.dir/geometria.cpp.obj	5196c124dd083d5c
+21	806	7217808501060990	CMakeFiles/main.dir/main.cpp.obj	7f15ab6f1af4273
+806	974	7217808502818990	main.exe	726807aecde688cf
