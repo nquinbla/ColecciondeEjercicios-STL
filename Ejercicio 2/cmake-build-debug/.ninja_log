@@ -1,0 +1,14 @@
+# ninja log v5
+15	127	7217796485373520	CMakeFiles/circulo.dir/circulo.cpp.obj	b9321ddcdb536730
+5	633	7217796490515484	CMakeFiles/circulo.dir/main.cpp.obj	37c3e20197d190e8
+17	112	7217796450320328	CMakeFiles/triangulo.dir/triangulo.cpp.obj	8a1280320b8b9a24
+5	589	7217796455090095	CMakeFiles/triangulo.dir/main.cpp.obj	a69faf0bc254c03f
+0	180	7217799956516134	CMakeFiles/calcular.dir/circulo.cpp.obj	ad49422d849cbc4f
+20	187	7217799956516134	CMakeFiles/calcular.dir/triangulo.cpp.obj	7d694e3db23cfd4b
+47	716	7217799961831387	CMakeFiles/calcular.dir/main.cpp.obj	a41a3521f67a719c
+732	924	7217799963855164	calcular.exe	8041492d56cc0cc2
+11	100	7217800947696696	CMakeFiles/programa.dir/triangulo.cpp.obj	c57c491d241d3f02
+0	529	7217800951983927	CMakeFiles/programa.dir/main.cpp.obj	66f59a822a705b10
+109	274	7217802785158688	programa.exe	9c6b68d4ab8b7f81
+5	108	7217802783544465	CMakeFiles/programa.dir/circulo.cpp.obj	b0d32ade13d71972
+5	145	7217802974445596	programa.exe	7cf3ee82c2184103
